@@ -36,7 +36,7 @@ git clone https://github.com/drmqueiroz1/Calculadora.git
 ## Navegue até o diretório do projeto
 - cd Calculadora
 
-# Modo de usar:
+### Modo de usar:
 
 - Abra o arquivo index.html em seu navegador da web.
 - A Calculadora será exibido na tela.
