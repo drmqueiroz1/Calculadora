@@ -5,7 +5,7 @@
 Este é um projeto de Calculadora (Calculator) desenvolvido como parte das aulas do curso da OnebitCode. Neste projeto, criamos uma versão digital de uma Calculadora, 
 onde podemos efetuar as quatro operações básicas, além de possuir dois temas de exibição (Claro/Escuro). 
 
-![image](https://github.com/user-attachments/assets/b1981647-fde8-4b25-810f-e9fc50f9c6c1)
+![image](https://github.com/drmqueiroz1/Calculadora/blob/main/Escuro.png)  ![image](https://github.com/drmqueiroz1/Calculadora/blob/main/Claro.png)
 
 
 ## Descrição do Projeto
